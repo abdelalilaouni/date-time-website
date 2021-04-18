@@ -10,3 +10,5 @@ var currentDate = date.toDateString()
 var currentTime = date.toLocaleTimeString()
 
 document.body.innerHTML = "<h1>Today's date is " + currentDate + "</h1> <h2> The time is " + currentTime + "</h2>"
+
+
